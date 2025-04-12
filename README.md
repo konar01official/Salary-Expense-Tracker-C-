@@ -42,3 +42,9 @@ Designed for individuals looking to **develop budgeting discipline** and gain a 
 - Total annual expenses
 - Remaining savings (Salary - Expenses)
 
+🔮 Future Improvements
+Add support for monthly salary input
+Export reports to CSV or text files
+Build a GUI version using a graphics library
+Integrate with file input/output for persistence
+
