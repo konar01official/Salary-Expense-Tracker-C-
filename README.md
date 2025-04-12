@@ -56,8 +56,9 @@ Year,Month,Salary,CarryForward,TotalBudget,TotalExpense,MonthlySavings
 2024,January,30000,0,30000,20000,10000
 2024,February,28000,10000,38000,16000,22000
 
+---
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Add support for monthly salary input
 
