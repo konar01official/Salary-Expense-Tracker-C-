@@ -37,3 +37,8 @@ Designed for individuals looking to **develop budgeting discipline** and gain a 
    - They input **expense items** (e.g., Food, Rent, Transport).
    - They input **amounts** per item.
 3. The program builds a nested map:
+4. After input, the program generates a full **Expense Report**:
+- Expense breakdown per month
+- Total annual expenses
+- Remaining savings (Salary - Expenses)
+
